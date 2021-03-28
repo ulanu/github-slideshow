@@ -16,4 +16,3 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 This is *my* repository.📖 ✨
 
-![qwe tab](https://pm1.narvii.com/5846/b55a8f2e32e9120be57481c8b7189bf46279f38b_128.jpg)
